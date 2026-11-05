@@ -3,7 +3,7 @@
 Base de datos PostgreSQL para el centro de operaciones de seguridad (SOC) de una organización, con
 scripts SQL, programación avanzada (PL/pgSQL) y una aplicación de escritorio en Python.
 
-**Curso:** Bases de Datos I  ·  **Autor(es):** _(completar)_  ·  **Fecha:** _(completar)_
+**Curso:** Bases de Datos I  ·  **Autor(es):** Federico Prieto Landaburu - Andres Mauricio Otero Gonzales
 
 ---
 
